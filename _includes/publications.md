@@ -24,6 +24,7 @@
 	    	<a href="https://scholar.google.com/citations?user=ngCBlN4AAAAJ&hl=en">Jinhe Bi</a>,	
 	    	<a href="https://eng.ox.ac.uk/people/philip-torr/">Philip Torr</a>,	
 		<a href="https://jindonggu.github.io/">Jindong Gu</a>,
+		<a href="https://www.linkedin.com/in/qiqizhang7777/">Yueqi Zhang</a>,
 		<a href="https://www.dbs.ifi.lmu.de/~krompass/">Denis Krompass</a>, 
 		<a href="https://www.dbs.ifi.lmu.de/~tresp/">Volker Tresp</a>
     </div>
