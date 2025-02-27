@@ -3,6 +3,42 @@
 <div class="publications">
 <ol class="bibliography">
 
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;padding-bottom: 25px;">
+    <img src="assets/img/fedbip.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR</abbr>
+  </div>
+  
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">
+      <a href="https://arxiv.org/pdf/2410.04810.pdf">
+	FedBiP: Heterogeneous One-Shot Federated Learning with Personalized Latent Diffusion Models
+      </a></div>
+    <div class="author">
+            <strong>Haokun Chen</strong>,
+	    	<a href="https://scholar.google.com/citations?user=gZrfKq0AAAAJ&hl=en">Hang Li</a>,
+		<a href="https://scholar.google.com/citations?user=F19iFf8AAAAJ&hl=en">Yao Zhang</a>,		
+	    	<a href="https://scholar.google.com/citations?user=LN2tYr0AAAAJ&hl=en">Gengyuan Zhang</a>,		
+	    	<a href="https://scholar.google.com/citations?user=ngCBlN4AAAAJ&hl=en">Jinhe Bi</a>,	
+	    	<a href="https://eng.ox.ac.uk/people/philip-torr/">Philip Torr</a>,	
+		<a href="https://jindonggu.github.io/">Jindong Gu</a>,
+		<a href="https://www.dbs.ifi.lmu.de/~krompass/">Denis Krompass</a>, 
+		<a href="https://www.dbs.ifi.lmu.de/~tresp/">Volker Tresp</a>
+    </div>
+    <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, Jun. 2025. </em></div>
+    <div class="links">
+<!--       <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <a href="https://arxiv.org/pdf/2410.04810.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
+    </div>
+  </div>
+  
+</div>
+
+<br>
+
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;padding-bottom: 25px;">
@@ -13,7 +49,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">
       <a href="https://arxiv.org/pdf/2308.08634.pdf">
-      FedPop: Federated Population-based Hyperparameter Tuning
+      FedPop: Federated Population-based Hyperparameter Tuning 
     </a></div>
     <div class="author">
             <strong>Haokun Chen</strong>,
@@ -21,7 +57,7 @@
 		<a href="https://jindonggu.github.io/">Jindong Gu</a>,
 		<a href="https://www.dbs.ifi.lmu.de/~tresp/">Volker Tresp</a>
     </div>
-    <div class="periodical"><em>The 39th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, Feb. 2025.</em></div>
+    <div class="periodical"><em>The 39th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, Feb. 2025. <strong>(Oral)</strong> </em></div>
     <div class="links">
 <!--       <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
       <a href="https://arxiv.org/pdf/2308.08634.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -88,41 +124,6 @@
       <a href="https://github.com/HaokunChen245/FRAug" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_FRAug_Tackling_Federated_Learning_with_Non-IID_Features_via_Representation_Augmentation_ICCV_2023_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <strong><i style="color:#7b5aa6">Poster Presentation</i></strong>
-    </div>
-  </div>
-  
-</div>
-
-<br>
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;padding-bottom: 25px;">
-    <img src="assets/img/fedbip.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
-  </div>
-  
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">
-      <a href="https://arxiv.org/pdf/2410.04810.pdf">
-	FedBiP: Heterogeneous One-Shot Federated Learning with Personalized Latent Diffusion Models
-      </a></div>
-    <div class="author">
-            <strong>Haokun Chen</strong>,
-	    	<a href="https://scholar.google.com/citations?user=gZrfKq0AAAAJ&hl=en">Hang Li</a>,
-		<a href="https://scholar.google.com/citations?user=F19iFf8AAAAJ&hl=en">Yao Zhang</a>,		
-	    	<a href="https://scholar.google.com/citations?user=LN2tYr0AAAAJ&hl=en">Gengyuan Zhang</a>,		
-	    	<a href="https://scholar.google.com/citations?user=ngCBlN4AAAAJ&hl=en">Jinhe Bi</a>,	
-	    	<a href="https://eng.ox.ac.uk/people/philip-torr/">Philip Torr</a>,	
-		<a href="https://jindonggu.github.io/">Jindong Gu</a>,
-		<a href="https://www.dbs.ifi.lmu.de/~krompass/">Denis Krompass</a>, 
-		<a href="https://www.dbs.ifi.lmu.de/~tresp/">Volker Tresp</a>
-    </div>
-    <div class="periodical"><em>arXiv (arXiv), Oct. 2024.</em></div>
-    <div class="links">
-<!--       <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
-      <a href="https://arxiv.org/pdf/2410.04810.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
     </div>
   </div>
   
