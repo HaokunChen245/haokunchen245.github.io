@@ -32,7 +32,7 @@
     <div class="links">
 <!--       <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
       <a href="https://arxiv.org/pdf/2410.04810.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#e61919">Poster Presentation</i></strong>
+      <strong><i style="color:#7b5aa6">Poster Presentation</i></strong>
     </div>
   </div>
   
@@ -62,7 +62,7 @@
     <div class="links">
 <!--       <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
       <a href="https://arxiv.org/pdf/2308.08634.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#7b5aa6">Oral Presentation</i></strong>
+      <strong><i style="color:#e61919">Oral Presentation</i></strong>
     </div>
   </div>
   
