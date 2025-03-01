@@ -20,7 +20,7 @@
       <ul style="margin:0 0 20px;">
         IEEE Transactions on Pattern Analysis and Machine Intelligence (<em>TPMAI</em>) <br>
         IEEE Transactions on Knowledge and Data Engineering (<em>TKDE</em>) <br>
-        IEEE Transactions on Cognitive Communications and Networking (<em>TCNN</em>) <br>
+        IEEE Transactions on Cognitive Communications and Networking (<em>TCCN</em>) <br>
         ACM Transactions on Knowledge Discovery from Data (<em>TKDD</em>) <br>        
       </ul>
   </div>
