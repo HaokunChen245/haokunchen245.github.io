@@ -5,7 +5,7 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;padding-bottom: 10px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;padding-bottom: 5px;">
     <h4 style="margin:0 10px 0;"><autocolor>Conference Reviewers</autocolor></h4>
       <ul style="margin:0 0 10px;">
         <em>Computer Vision:</em> ECCV 2024, CVPR 2025, ICCV 2025 <br>
