@@ -7,8 +7,9 @@ I am a final-year PhD student advised by <a href="https://www.dbs.ifi.lmu.de/~tr
 
 
 ## Research Interests
-- **Trustworthy AI:** Federated Learning, Adversarial Attacks, Machine Unlearning.
-- **Generative AI:** Large Language Models (LLMs), Vision-Language Foundation Models, Parameter Efficient Finetuning (PEFT)
+- **Generative AI:** Post-training of Large Language Models (LLMs), Vision-Language Foundation Models.
+- **Distritbuted Model Training:** Addressing data heterogeneity/deficiency and system scalability in Federated Learning.
+- **Trustworthy AI:** Adversarial Attacks, Machine Unlearning.
 
 
 {% include_relative _includes/publications.md %} <br>
