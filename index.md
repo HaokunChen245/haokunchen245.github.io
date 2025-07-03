@@ -12,10 +12,15 @@ I am a final-year PhD student advised by <a href="https://www.dbs.ifi.lmu.de/~tr
 - **Trustworthy AI:** Adversarial Attacks, Machine Unlearning.
 
 ## Education
-- 2021.11 - 2025.11 **Ph.D. Computer Science:** LMU Munich & Siemens AG, Munich, Germany.
-- 2018.10 - 2021.11 **M.Sc Computer Science:** Technical University of Munich (TUM), Munich, Germany.
-- 2014.10 - 2018.10 **B.Sc Mechatronic Engineering:** Tongji University, Shanghai, China.
+- Nov 2021 - Nov 2025 **Ph.D. Computer Science:** LMU Munich & Siemens AG, Munich, Germany.
+- Oct 2018 - Nov 2021 **M.Sc Computer Science:** Technical University of Munich (TUM), Munich, Germany.
+- Oct 2014 - Oct 2018 **B.Sc Mechatronic Engineering:** Tongji University, Shanghai, China.
 
+## Experience
+- June 2025 - Dec 2025 **Applied Scientist Intern:** Amazon, Berlin, Germany.
+- Aug 2024 - Nov 2024 **Research Scientist Intern:** Intel, Remote, USA.
+- Nov 2021 - June 2024 **Doctorate Researcher:** Siemens AG, Munich, Germany.
+- Mar 2020 - Nov 2020 **Research Intern:** BMW Autonomous Driving Campus, Munich, Germany.
 
 {% include_relative _includes/publications.md %} <br>
 {% include_relative _includes/services.md %}
