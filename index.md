@@ -17,9 +17,9 @@ I am a final-year PhD student advised by <a href="https://www.dbs.ifi.lmu.de/~tr
 - Oct 2014 - Oct 2018 **B.Sc Mechatronic Engineering:** Tongji University, Shanghai, China.
 
 ## Experience
-- June 2025 - Dec 2025 **Applied Scientist Intern:** Amazon, Berlin, Germany.
+- Jun 2025 - Dec 2025 **Applied Scientist Intern:** Amazon, Berlin, Germany.
 - Aug 2024 - Nov 2024 **Research Scientist Intern:** Intel, Remote, USA.
-- Nov 2021 - June 2024 **Doctorate Researcher:** Siemens AG, Munich, Germany.
+- Nov 2021 - Jun 2024 **Doctorate Researcher:** Siemens AG, Munich, Germany.
 - Mar 2020 - Nov 2020 **Research Intern:** BMW Autonomous Driving Campus, Munich, Germany.
 
 {% include_relative _includes/publications.md %} <br>
