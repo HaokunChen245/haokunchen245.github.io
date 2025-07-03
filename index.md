@@ -11,6 +11,11 @@ I am a final-year PhD student advised by <a href="https://www.dbs.ifi.lmu.de/~tr
 - **Distritbuted Model Training:** Addressing data heterogeneity/deficiency and system scalability in Federated Learning.
 - **Trustworthy AI:** Adversarial Attacks, Machine Unlearning.
 
+## Education
+- 2021.11 - 2025.11 **Ph.D. Computer Science:** LMU Munich & Siemens AG, Munich, Germany.
+- 2018.10 - 2021.11 **M.Sc Computer Science:** Technical University of Munich (TUM), Munich, Germany.
+- 2014.10 - 2018.10 **B.Sc Mechatronic Engineering:** Tongji University, Shanghai, China.
+
 
 {% include_relative _includes/publications.md %} <br>
 {% include_relative _includes/services.md %}
