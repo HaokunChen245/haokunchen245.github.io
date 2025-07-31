@@ -3,6 +3,13 @@
 <div class="publications">
 <ol class="bibliography">
 
+<style>
+  .highlight-name {
+    font-weight: bold;
+    font-size: 1.1em;
+    color: #000;
+  }
+</style>
 
 <li>
 <div class="pub-row">
@@ -17,7 +24,7 @@
 	FedBiP: Heterogeneous One-Shot Federated Learning with Personalized Latent Diffusion Models
       </a></div>
     <div class="author">
-            <strong>Haokun Chen</strong>,
+            <span class="highlight-name">Haokun Chen</span>,
 	    	<a href="https://scholar.google.com/citations?user=gZrfKq0AAAAJ&hl=en" style="color: black;">Hang Li</a>,
 		<a href="https://scholar.google.com/citations?user=F19iFf8AAAAJ&hl=en" style="color: black;">Yao Zhang</a>,		
 	    	<a href="https://scholar.google.com/citations?user=LN2tYr0AAAAJ&hl=en" style="color: black;">Gengyuan Zhang</a>,
@@ -53,7 +60,7 @@
       FedPop: Federated Population-based Hyperparameter Tuning 
     </a></div>
     <div class="author">
-            <strong>Haokun Chen</strong>,
+            <span class="highlight-name">Haokun Chen</span>,
 		<a href="https://www.dbs.ifi.lmu.de/~krompass/" style="color: black;">Denis Krompass</a>, 
 		<a href="https://jindonggu.github.io/" style="color: black;">Jindong Gu</a>,
 		<a href="https://www.dbs.ifi.lmu.de/~tresp/" style="color: black;">Volker Tresp</a>
@@ -84,7 +91,7 @@
       FedDAT: An Approach for Foundation Model Finetuning in Multi-Modal Heterogeneous Federated Learning
     </a></div>
     <div class="author">
-            <strong>Haokun Chen</strong>,
+            <span class="highlight-name">Haokun Chen</span>,
 		<a href="https://scholar.google.com/citations?user=F19iFf8AAAAJ&hl=en" style="color: black;">Yao Zhang</a>,
 		<a href="https://www.dbs.ifi.lmu.de/~krompass/" style="color: black;">Denis Krompass</a>, 
 		<a href="https://jindonggu.github.io/" style="color: black;">Jindong Gu</a>,
@@ -114,7 +121,7 @@
       FRAug: Tackling Federated Learning with Non-IID Features via Representation Augmentation
     </a></div>
     <div class="author">
-            <strong>Haokun Chen</strong>,
+            <span class="highlight-name">Haokun Chen</span>,
 		<a href="https://www.linkedin.com/in/ahmed-frikha?originalSubdomain=de" style="color: black;">Ahmed Frikha</a>,
 		<a href="https://www.dbs.ifi.lmu.de/~krompass/" style="color: black;">Denis Krompass</a>, 
 		<a href="https://jindonggu.github.io/" style="color: black;">Jindong Gu</a>,
@@ -146,7 +153,7 @@
       </a></div>
     <div class="author">
 		<a href="https://www.linkedin.com/in/ahmed-frikha?originalSubdomain=de" style="color: black;">Ahmed Frikha <sup>*</sup> </a>,
-		<strong>Haokun Chen <sup>*</sup> </strong>,
+		<span class="highlight-name">Haokun Chen <sup>*</sup> </span>,
 		<a href="https://www.dbs.ifi.lmu.de/~krompass/" style="color: black;">Denis Krompass</a>, 
 		<a href="https://www.dbs.ifi.lmu.de/~tresp/" style="color: black;">Volker Tresp</a>,
 		<a href="https://www.professoren.tum.de/honorarprofessoren/r/runkler-thomas" style="color: black;"> Thomas Runkler</a>
@@ -177,7 +184,7 @@
       </a></div>
     <div class="author">
 	<a href="https://scholar.google.com/citations?user=F19iFf8AAAAJ&hl=en" style="color: black;">Yao Zhang</a>,
-	<strong>Haokun Chen</strong>,
+	<span class="highlight-name">Haokun Chen</span>,
 	<a href="https://www.linkedin.com/in/ahmed-frikha?originalSubdomain=de" style="color: black;">Ahmed Frikha</a>,
 	<a href="https://www.linkedin.com/in/yezi-yang-146a62201/?originalSubdomain=de" style="color: black;">Yezi Yang</a>,
 	<a href="https://www.dbs.ifi.lmu.de/~krompass/" style="color: black;">Denis Krompass</a>, 
