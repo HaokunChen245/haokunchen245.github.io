@@ -32,7 +32,7 @@
     <div class="links">
 <!--       <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
       <a href="https://arxiv.org/pdf/2410.04810.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#7b5aa6">Poster Presentation</i></strong>
+      <strong><i>Poster Presentation</i></strong>
     </div>
   </div>
   
@@ -94,7 +94,7 @@
     <div class="links">
       <a href="https://github.com/HaokunChen245/FedDAT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://arxiv.org/pdf/2308.12305.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#7b5aa6">Poster Presentation</i></strong>
+      <strong><i>Poster Presentation</i></strong>
     </div>
   </div>
 </div>
@@ -124,7 +124,7 @@
     <div class="links">
       <a href="https://github.com/HaokunChen245/FRAug" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_FRAug_Tackling_Federated_Learning_with_Non-IID_Features_via_Representation_Augmentation_ICCV_2023_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#7b5aa6">Poster Presentation</i></strong>
+      <strong><i>Poster Presentation</i></strong>
     </div>
   </div>
   
@@ -155,7 +155,7 @@
     <div class="links">
       <a href="https://github.com/HaokunChen245/DFDG" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://arxiv.org/pdf/2308.08634.pd" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#7b5aa6">Poster Presentation</i></strong>
+      <strong><i>Poster Presentation</i></strong>
     </div>
   </div>
   
@@ -189,7 +189,7 @@
     <div class="links">
 <!--       <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
       <a href="https://arxiv.org/pdf/2308.08634.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#7b5aa6">Poster Presentation</i></strong>
+      <strong><i>Poster Presentation</i></strong>
     </div>
   </div>
   
