@@ -29,7 +29,7 @@
     </div>
     <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, Jun. 2025. </em></div>
     <div class="links">
-<!--       <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <a href="https://github.com/HaokunChen245/FedBiP" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://arxiv.org/pdf/2410.04810.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <strong><i>Poster Presentation</i></strong>
     </div>
@@ -59,7 +59,7 @@
     </div>
     <div class="periodical"><em>The 39th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, Feb. 2025. </em></div>
     <div class="links">
-<!--       <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <a href="https://github.com/HaokunChen245/FedPop" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://arxiv.org/pdf/2308.08634.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <strong><i style="color:#e61919">Oral Presentation</i></strong>
     </div>
