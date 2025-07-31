@@ -18,15 +18,15 @@
       </a></div>
     <div class="author">
             <strong>Haokun Chen</strong>,
-	    	<a href="https://scholar.google.com/citations?user=gZrfKq0AAAAJ&hl=en">Hang Li</a>,
-		<a href="https://scholar.google.com/citations?user=F19iFf8AAAAJ&hl=en">Yao Zhang</a>,		
-	    	<a href="https://scholar.google.com/citations?user=LN2tYr0AAAAJ&hl=en">Gengyuan Zhang</a>,		
-	    	<a href="https://scholar.google.com/citations?user=ngCBlN4AAAAJ&hl=en">Jinhe Bi</a>,	
-	    	<a href="https://eng.ox.ac.uk/people/philip-torr/">Philip Torr</a>,	
-		<a href="https://jindonggu.github.io/">Jindong Gu</a>,
-		<a href="https://www.linkedin.com/in/qiqizhang7777/">Yueqi Zhang</a>,
-		<a href="https://www.dbs.ifi.lmu.de/~krompass/">Denis Krompass</a>, 
-		<a href="https://www.dbs.ifi.lmu.de/~tresp/">Volker Tresp</a>
+	    	<a href="https://scholar.google.com/citations?user=gZrfKq0AAAAJ&hl=en" style="color: black;">Hang Li</a>,
+		<a href="https://scholar.google.com/citations?user=F19iFf8AAAAJ&hl=en" style="color: black;">Yao Zhang</a>,		
+	    	<a href="https://scholar.google.com/citations?user=LN2tYr0AAAAJ&hl=en" style="color: black;">Gengyuan Zhang</a>,
+	    	<a href="https://scholar.google.com/citations?user=ngCBlN4AAAAJ&hl=en" style="color: black;">Jinhe Bi</a>,	
+	    	<a href="https://eng.ox.ac.uk/people/philip-torr/" style="color: black;">Philip Torr</a>,	
+		<a href="https://jindonggu.github.io/" style="color: black;">Jindong Gu</a>,
+		<a href="https://www.linkedin.com/in/qiqizhang7777/" style="color: black;">Yueqi Zhang</a>,
+		<a href="https://www.dbs.ifi.lmu.de/~krompass/" style="color: black;">Denis Krompass</a>, 
+		<a href="https://www.dbs.ifi.lmu.de/~tresp/" style="color: black;">Volker Tresp</a>
     </div>
     <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, Jun. 2025. </em></div>
     <div class="links">
@@ -54,9 +54,9 @@
     </a></div>
     <div class="author">
             <strong>Haokun Chen</strong>,
-		<a href="https://www.dbs.ifi.lmu.de/~krompass/">Denis Krompass</a>, 
-		<a href="https://jindonggu.github.io/">Jindong Gu</a>,
-		<a href="https://www.dbs.ifi.lmu.de/~tresp/">Volker Tresp</a>
+		<a href="https://www.dbs.ifi.lmu.de/~krompass/" style="color: black;">Denis Krompass</a>, 
+		<a href="https://jindonggu.github.io/" style="color: black;">Jindong Gu</a>,
+		<a href="https://www.dbs.ifi.lmu.de/~tresp/" style="color: black;">Volker Tresp</a>
     </div>
     <div class="periodical"><em>The 39th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, Feb. 2025. </em></div>
     <div class="links">
@@ -85,10 +85,10 @@
     </a></div>
     <div class="author">
             <strong>Haokun Chen</strong>,
-		<a href="https://scholar.google.com/citations?user=F19iFf8AAAAJ&hl=en">Yao Zhang</a>,
-		<a href="https://www.dbs.ifi.lmu.de/~krompass/">Denis Krompass</a>, 
-		<a href="https://jindonggu.github.io/">Jindong Gu</a>,
-		<a href="https://www.dbs.ifi.lmu.de/~tresp/">Volker Tresp</a>
+		<a href="https://scholar.google.com/citations?user=F19iFf8AAAAJ&hl=en" style="color: black;">Yao Zhang</a>,
+		<a href="https://www.dbs.ifi.lmu.de/~krompass/" style="color: black;">Denis Krompass</a>, 
+		<a href="https://jindonggu.github.io/" style="color: black;">Jindong Gu</a>,
+		<a href="https://www.dbs.ifi.lmu.de/~tresp/" style="color: black;">Volker Tresp</a>
     </div>
     <div class="periodical"><em>The 38th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, Feb. 2024.</em></div>
     <div class="links">
@@ -115,10 +115,10 @@
     </a></div>
     <div class="author">
             <strong>Haokun Chen</strong>,
-		<a href="https://www.linkedin.com/in/ahmed-frikha?originalSubdomain=de">Ahmed Frikha</a>,
-		<a href="https://www.dbs.ifi.lmu.de/~krompass/">Denis Krompass</a>, 
-		<a href="https://jindonggu.github.io/">Jindong Gu</a>,
-		<a href="https://www.dbs.ifi.lmu.de/~tresp/">Volker Tresp</a>
+		<a href="https://www.linkedin.com/in/ahmed-frikha?originalSubdomain=de" style="color: black;">Ahmed Frikha</a>,
+		<a href="https://www.dbs.ifi.lmu.de/~krompass/" style="color: black;">Denis Krompass</a>, 
+		<a href="https://jindonggu.github.io/" style="color: black;">Jindong Gu</a>,
+		<a href="https://www.dbs.ifi.lmu.de/~tresp/" style="color: black;">Volker Tresp</a>
     </div>
     <div class="periodical"><em>International Conference on Computer Vision <strong>(ICCV)</strong>, Oct. 2023.</em></div>
     <div class="links">
@@ -145,11 +145,11 @@
 	Towards Data-free Domain Generalization
       </a></div>
     <div class="author">
-		<a href="https://www.linkedin.com/in/ahmed-frikha?originalSubdomain=de">Ahmed Frikha <sup>*</sup> </a>,
+		<a href="https://www.linkedin.com/in/ahmed-frikha?originalSubdomain=de" style="color: black;">Ahmed Frikha <sup>*</sup> </a>,
 		<strong>Haokun Chen <sup>*</sup> </strong>,
-		<a href="https://www.dbs.ifi.lmu.de/~krompass/">Denis Krompass</a>, 
-		<a href="https://www.dbs.ifi.lmu.de/~tresp/">Volker Tresp</a>,
-		<a href="https://www.professoren.tum.de/honorarprofessoren/r/runkler-thomas"> Thomas Runkler</a>
+		<a href="https://www.dbs.ifi.lmu.de/~krompass/" style="color: black;">Denis Krompass</a>, 
+		<a href="https://www.dbs.ifi.lmu.de/~tresp/" style="color: black;">Volker Tresp</a>,
+		<a href="https://www.professoren.tum.de/honorarprofessoren/r/runkler-thomas" style="color: black;"> Thomas Runkler</a>
     </div>
     <div class="periodical"><em>14th Asian Conference on Machine Learning <strong>(ACML)</strong>, Dec. 2022.</em></div>
     <div class="links">
@@ -176,14 +176,14 @@
 	CL-CrossVQA: A Continual Learning Benchmark for Cross-Domain Visual Question Answering
       </a></div>
     <div class="author">
-	<a href="https://scholar.google.com/citations?user=F19iFf8AAAAJ&hl=en">Yao Zhang</a>,
+	<a href="https://scholar.google.com/citations?user=F19iFf8AAAAJ&hl=en" style="color: black;">Yao Zhang</a>,
 	<strong>Haokun Chen</strong>,
-	<a href="https://www.linkedin.com/in/ahmed-frikha?originalSubdomain=de">Ahmed Frikha</a>,
-	<a href="https://www.linkedin.com/in/yezi-yang-146a62201/?originalSubdomain=de">Yezi Yang</a>,
-	<a href="https://www.dbs.ifi.lmu.de/~krompass/">Denis Krompass</a>, 
-	<a href="https://www.dbs.ifi.lmu.de/cms/personen/mitarbeiter/zhang/index.html">Gengyuan Zhang</a>,
-	<a href="https://jindonggu.github.io/">Jindong Gu</a>,
-	<a href="https://www.dbs.ifi.lmu.de/~tresp/">Volker Tresp</a>
+	<a href="https://www.linkedin.com/in/ahmed-frikha?originalSubdomain=de" style="color: black;">Ahmed Frikha</a>,
+	<a href="https://www.linkedin.com/in/yezi-yang-146a62201/?originalSubdomain=de" style="color: black;">Yezi Yang</a>,
+	<a href="https://www.dbs.ifi.lmu.de/~krompass/" style="color: black;">Denis Krompass</a>, 
+	<a href="https://www.dbs.ifi.lmu.de/cms/personen/mitarbeiter/zhang/index.html" style="color: black;">Gengyuan Zhang</a>,
+	<a href="https://jindonggu.github.io/" style="color: black;">Jindong Gu</a>,
+	<a href="https://www.dbs.ifi.lmu.de/~tresp/" style="color: black;">Volker Tresp</a>
     </div>
     <div class="periodical"><em>IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong> Feb. 2025</em></div>
     <div class="links">
