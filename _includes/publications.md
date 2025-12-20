@@ -40,6 +40,35 @@ Language Models
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;padding-bottom: 25px;">
+    <img src="assets/img/softtoken.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">EMNLP</abbr>
+  </div>
+  
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">
+      <a href="https://arxiv.org/pdf/2502.15836.pdf">
+	Soft Token Attacks Cannot Reliably Audit Unlearning in Large Language Models
+      </a></div>
+    <div class="author">
+             <span style="font-weight:900; color:#7b5aa6;">Haokun Chen</span>,
+	    	<a href="https://sebszyller.com/" style="color: black;">Sebastian Szyller</a>,
+		<a href="https://xuweilin.org/" style="color: black;">Weilin Xu</a>,		
+	    	<a href="https://www.linkedin.com/in/nageen-himayat-3292603" style="color: black;">Nageen Himayat</a>,
+    </div>
+    <div class="periodical"><em>The 2025 Conference on Empirical Methods in Natural Language Processing<strong>(EMNLP)</strong>, Nov. 2025. </em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2502.15836" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <strong><i>Poster Presentation</i></strong>
+    </div>
+  </div>
+  
+</div>
+
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;padding-bottom: 25px;">
     <img src="assets/img/fedbip.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CVPR</abbr>
   </div>
@@ -50,7 +79,7 @@ Language Models
 	FedBiP: Heterogeneous One-Shot Federated Learning with Personalized Latent Diffusion Models
       </a></div>
     <div class="author">
-             <span style="font-weight:800; color:#7b5aa6;">Haokun Chen</span>,
+             <span style="font-weight:900; color:#7b5aa6;">Haokun Chen</span>,
 	    	<a href="https://scholar.google.com/citations?user=gZrfKq0AAAAJ&hl=en" style="color: black;">Hang Li</a>,
 		<a href="https://scholar.google.com/citations?user=F19iFf8AAAAJ&hl=en" style="color: black;">Yao Zhang</a>,		
 	    	<a href="https://scholar.google.com/citations?user=LN2tYr0AAAAJ&hl=en" style="color: black;">Gengyuan Zhang</a>,
@@ -86,7 +115,7 @@ Language Models
       FedPop: Federated Population-based Hyperparameter Tuning 
     </a></div>
     <div class="author">
-             <strong style="color:#7b5aa6">Haokun Chen</strong>,
+             <span style="font-weight:900; color:#7b5aa6;">Haokun Chen</span>,
 		<a href="https://www.dbs.ifi.lmu.de/~krompass/" style="color: black;">Denis Krompass</a>, 
 		<a href="https://jindonggu.github.io/" style="color: black;">Jindong Gu</a>,
 		<a href="https://www.dbs.ifi.lmu.de/~tresp/" style="color: black;">Volker Tresp</a>
@@ -117,7 +146,7 @@ Language Models
       FedDAT: An Approach for Foundation Model Finetuning in Multi-Modal Heterogeneous Federated Learning
     </a></div>
     <div class="author">
-             <strong style="color:#7b5aa6">Haokun Chen</strong>,
+             <span style="font-weight:900; color:#7b5aa6;">Haokun Chen</span>,
 		<a href="https://scholar.google.com/citations?user=F19iFf8AAAAJ&hl=en" style="color: black;">Yao Zhang</a>,
 		<a href="https://www.dbs.ifi.lmu.de/~krompass/" style="color: black;">Denis Krompass</a>, 
 		<a href="https://jindonggu.github.io/" style="color: black;">Jindong Gu</a>,
@@ -147,7 +176,7 @@ Language Models
       FRAug: Tackling Federated Learning with Non-IID Features via Representation Augmentation
     </a></div>
     <div class="author">
-             <strong style="color:#7b5aa6">Haokun Chen</strong>,
+             <span style="font-weight:900; color:#7b5aa6;">Haokun Chen</span>,
 		<a href="https://www.linkedin.com/in/ahmed-frikha?originalSubdomain=de" style="color: black;">Ahmed Frikha</a>,
 		<a href="https://www.dbs.ifi.lmu.de/~krompass/" style="color: black;">Denis Krompass</a>, 
 		<a href="https://jindonggu.github.io/" style="color: black;">Jindong Gu</a>,
@@ -179,7 +208,7 @@ Language Models
       </a></div>
     <div class="author">
 		<a href="https://www.linkedin.com/in/ahmed-frikha?originalSubdomain=de" style="color: black;">Ahmed Frikha <sup>*</sup> </a>,
-		<strong style="color:#7b5aa6"> Haokun Chen  <sup>*</sup> </strong>,
+             <span style="font-weight:900; color:#7b5aa6;">Haokun Chen</span>,
 		<a href="https://www.dbs.ifi.lmu.de/~krompass/" style="color: black;">Denis Krompass</a>, 
 		<a href="https://www.dbs.ifi.lmu.de/~tresp/" style="color: black;">Volker Tresp</a>,
 		<a href="https://www.professoren.tum.de/honorarprofessoren/r/runkler-thomas" style="color: black;"> Thomas Runkler</a>
@@ -210,7 +239,7 @@ Language Models
       </a></div>
     <div class="author">
 	<a href="https://scholar.google.com/citations?user=F19iFf8AAAAJ&hl=en" style="color: black;">Yao Zhang</a>,
-	 <strong style="color:#7b5aa6">Haokun Chen</strong>,
+             <span style="font-weight:900; color:#7b5aa6;">Haokun Chen</span>,
 	<a href="https://www.linkedin.com/in/ahmed-frikha?originalSubdomain=de" style="color: black;">Ahmed Frikha</a>,
 	<a href="https://www.linkedin.com/in/yezi-yang-146a62201/?originalSubdomain=de" style="color: black;">Yezi Yang</a>,
 	<a href="https://www.dbs.ifi.lmu.de/~krompass/" style="color: black;">Denis Krompass</a>, 
