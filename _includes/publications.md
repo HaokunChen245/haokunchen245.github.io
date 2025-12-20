@@ -222,6 +222,37 @@ Language Models
   </div>
   
 </div>
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;padding-bottom: 30px;">
+    <img src="assets/img/clvqa.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ACL</abbr>
+  </div>
+  
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">
+      <a href="https://arxiv.org/pdf/2412.12359.pdf">
+	LLaVA Steering: Visual Instruction Tuning with 500x Fewer Parameters through Modality Linear Representation-Steering
+      </a></div>
+    <div class="author">
+	<a href="https://scholar.google.com/citations?user=ngCBlN4AAAAJ&hl=en" style="color: black;">Jinhe Bi</a>,
+	<a href="https://scholar.google.com/citations?user=T4qdyEEAAAAJ&hl=en" style="color: black;">Yujun Wang</a>,
+             <span style="font-weight:900; color:#7b5aa6;">Haokun Chen</span>,
+	<a href="https://scholar.google.com/citations?user=xrjuwn8AAAAJ&hl=en" style="color: black;">Xun Xiao</a>,
+	<a href="https://scholar.google.com/citations?user=V3SQ0k8AAAAJ&hl=en" style="color: black;">Artur Hecker</a>,
+	<a href="https://www.dbs.ifi.lmu.de/~tresp/" style="color: black;">Volker Tresp</a>,
+	<a href="https://scholar.google.com/citations?user=fj5DzgcAAAAJ&hl=en" style="color: black;">Yunpu Ma</a>,
+    </div>
+    <div class="periodical"><em>The 63rd Annual Meeting of the Association for Computational Linguistics<strong>(ACL)</strong> Jul. 2025</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2412.12359.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <strong><i>Poster Presentation</i></strong>
+    </div>
+  </div>
+  
+</div>
 
 <br>
 
