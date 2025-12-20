@@ -55,7 +55,7 @@ Language Models
 		<a href="https://xuweilin.org/" style="color: black;">Weilin Xu</a>,		
 	    	<a href="https://www.linkedin.com/in/nageen-himayat-3292603" style="color: black;">Nageen Himayat</a>,
     </div>
-    <div class="periodical"><em>The 2025 Conference on Empirical Methods in Natural Language Processing<strong>(EMNLP)</strong>, Nov. 2025. </em></div>
+    <div class="periodical"><em>The 2025 Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, Nov. 2025. </em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2502.15836" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <strong><i>Poster Presentation</i></strong>
@@ -245,7 +245,7 @@ Language Models
 	<a href="https://www.dbs.ifi.lmu.de/~tresp/" style="color: black;">Volker Tresp</a>,
 	<a href="https://scholar.google.com/citations?user=fj5DzgcAAAAJ&hl=en" style="color: black;">Yunpu Ma</a>,
     </div>
-    <div class="periodical"><em>The 63rd Annual Meeting of the Association for Computational Linguistics<strong>(ACL)</strong> Jul. 2025</em></div>
+    <div class="periodical"><em>The 63rd Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, Jul. 2025</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2412.12359.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <strong><i>Poster Presentation</i></strong>
