@@ -6,6 +6,39 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;padding-bottom: 25px;">
+    <img src="assets/img/fedbip.png" class="teaser img-fluid z-depth-1">AAAI<abbr class="badge">abbrr
+  </div>
+  
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">
+      <a href="https://arxiv.org/pdf/2410.04810.pdf">
+	AUVIC: Adversarial Unlearning of Visual Concepts for Multi-modal Large
+Language Models
+      </a></div>
+    <div class="author">
+             <span style="font-weight:900; color:#7b5aa6;">Haokun Chen</span>,
+	    	<a href="https://www.linkedin.com/in/jianing-li-4a6518264?originalSubdomain=de" style="color: black;">Jianing Li</a>,
+		<a href="https://scholar.google.com/citations?user=F19iFf8AAAAJ&hl=en" style="color: black;">Yao Zhang</a>,		
+	    	<a href="https://scholar.google.com/citations?user=ngCBlN4AAAAJ&hl=en" style="color: black;">Jinhe Bi</a>,	
+	    	<a href="https:https://cvg.cit.tum.de/members/xiya" style="color: black;">Yan Xia</a>,	
+		<a href="https://jindonggu.github.io/" style="color: black;">Jindong Gu</a>,
+		<a href="https://www.dbs.ifi.lmu.de/~tresp/" style="color: black;">Volker Tresp</a>
+    </div>
+	<div class="periodical"><em>The 40th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, Jan. 2026. </em></div>
+    <div class="links">
+      <a href="https://github.com/HaokunChen245/AUVIC" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://arxiv.org/pdf/2511.11299" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <strong><i>Poster Presentation</i></strong>
+    </div>
+  </div>
+  
+</div>
+
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;padding-bottom: 25px;">
     <img src="assets/img/fedbip.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CVPR</abbr>
   </div>
