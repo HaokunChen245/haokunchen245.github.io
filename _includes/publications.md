@@ -16,7 +16,7 @@
 	FedBiP: Heterogeneous One-Shot Federated Learning with Personalized Latent Diffusion Models
       </a></div>
     <div class="author">
-             <strong style="color:#7b5aa6">Haokun Chen</strong>,
+             <span style="font-weight:800; color:#7b5aa6;">Haokun Chen</span>,
 	    	<a href="https://scholar.google.com/citations?user=gZrfKq0AAAAJ&hl=en" style="color: black;">Hang Li</a>,
 		<a href="https://scholar.google.com/citations?user=F19iFf8AAAAJ&hl=en" style="color: black;">Yao Zhang</a>,		
 	    	<a href="https://scholar.google.com/citations?user=LN2tYr0AAAAJ&hl=en" style="color: black;">Gengyuan Zhang</a>,
