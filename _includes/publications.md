@@ -6,7 +6,8 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;padding-bottom: 25px;">
-    <img src="assets/img/fedbip.png" class="teaser img-fluid z-depth-1">AAAI<abbr class="badge">abbrr
+    <img src="assets/img/auvic.png" class="teaser img-fluid z-depth-1">
+	  <abbr class="badge">AAAI</abbr>
   </div>
   
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
