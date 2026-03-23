@@ -1,7 +1,7 @@
-<h2 id="publications" style="margin: 2px 0px 10px;">Services</h2>
+<!-- <h2 id="publications" style="margin: 2px 0px 10px;">Services</h2>
 
 <div class="publications">
-<ol class="bibliography" style="margin-bottom: 0;">
+<ol class="bibliography" style="margin-bottom: 0;"> -->
 
 <!-- <li style="min-height: auto; margin-bottom: 0;">
 <div class="pub-row">
