@@ -23,7 +23,6 @@ I am a final-year PhD student advised by <a href="https://www.dbs.ifi.lmu.de/~tr
 - Mar 2020 - Nov 2020 **Research Intern,** BMW Autonomous Driving Campus, Munich, Germany.
 
 {% include_relative _includes/publications.md %} <br>
-{% include_relative _includes/services.md %}
 
 
 
