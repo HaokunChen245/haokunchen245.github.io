@@ -3,12 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-<p>
-  I received my Ph.D. from LMU Munich in Germany, advised by <a href="https://www.dbs.ifi.lmu.de/~tresp/">Prof. Dr. Volker Tresp</a> and co-supervised by <a href="https://www.dbs.ifi.lmu.de/~krompass/">Dr. Denis Krompass</a> (Siemens AG). During my doctoral studies, I completed internships at Amazon and Intel. 
-</p>
-<p>
-  Prior to my Ph.D., I earned my Master's degree from TUM in Germany and my Bachelor's degree from Tongji University in China. I am trilingual in Mandarin, English, and German, and I enjoy playing basketball, swimming, and hip-hop dancing.
-</p>
+  I received my Ph.D. from LMU Munich in Germany, advised by <a href="https://www.dbs.ifi.lmu.de/~tresp/">Prof. Dr. Volker Tresp</a> and co-supervised by <a href="https://www.dbs.ifi.lmu.de/~krompass/">Dr. Denis Krompass</a> (Siemens AG). During my doctoral studies, I completed internships at Amazon and Intel. Besides, I earned my Master's degree from TUM in Germany and my Bachelor's degree from Tongji University in China. I am trilingual in Mandarin, English, and German, and I enjoy playing basketball, swimming, and hip-hop dancing.
 
 ## Research Interests
 - **Generative AI:** Post-training of Large Language Models (LLMs), Vision-Language Foundation Models.
