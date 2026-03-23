@@ -15,7 +15,7 @@
       <!-- <a href="https://arxiv.org/pdf/2410.04810.pdf"> -->
 	AUVIC: Adversarial Unlearning of Visual Concepts for Multi-modal Large
 Language Models
-      </a></div>
+      </div>
     <div class="author">
              <span style="font-weight:900; color:#7b5aa6;">Haokun Chen</span>,
 	    	<a href="https://www.linkedin.com/in/jianing-li-4a6518264?originalSubdomain=de" style="color: black;">Jianing Li</a>,
@@ -48,7 +48,7 @@ Language Models
     <div class="title">
       <!-- <a href="https://arxiv.org/pdf/2502.15836.pdf"> -->
 	Soft Token Attacks Cannot Reliably Audit Unlearning in Large Language Models
-      </a></div>
+      </div>
     <div class="author">
              <span style="font-weight:900; color:#7b5aa6;">Haokun Chen</span>,
 	    	<a href="https://sebszyller.com/" style="color: black;">Sebastian Szyller</a>,
@@ -77,7 +77,7 @@ Language Models
     <div class="title">
       <!-- <a href="https://arxiv.org/pdf/2410.04810.pdf"> -->
 	FedBiP: Heterogeneous One-Shot Federated Learning with Personalized Latent Diffusion Models
-      </a></div>
+      </div>
     <div class="author">
              <span style="font-weight:900; color:#7b5aa6;">Haokun Chen</span>,
 	    	<a href="https://scholar.google.com/citations?user=gZrfKq0AAAAJ&hl=en" style="color: black;">Hang Li</a>,
@@ -113,7 +113,7 @@ Language Models
     <div class="title">
       <!-- <a href="https://arxiv.org/pdf/2308.08634.pdf"> -->
       FedPop: Federated Population-based Hyperparameter Tuning 
-    </a></div>
+    </div>
     <div class="author">
              <span style="font-weight:900; color:#7b5aa6;">Haokun Chen</span>,
 		<a href="https://www.dbs.ifi.lmu.de/~krompass/" style="color: black;">Denis Krompass</a>, 
@@ -140,7 +140,7 @@ Language Models
     <div class="title">
       <!-- <a href="https://arxiv.org/pdf/2308.12305.pdf"> -->
       FedDAT: An Approach for Foundation Model Finetuning in Multi-Modal Heterogeneous Federated Learning
-    </a></div>
+    </div>
     <div class="author">
              <span style="font-weight:900; color:#7b5aa6;">Haokun Chen</span>,
 		<a href="https://scholar.google.com/citations?user=F19iFf8AAAAJ&hl=en" style="color: black;">Yao Zhang</a>,
@@ -166,7 +166,7 @@ Language Models
     <div class="title">
       <!-- <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_FRAug_Tackling_Federated_Learning_with_Non-IID_Features_via_Representation_Augmentation_ICCV_2023_paper.pdf"> -->
       FRAug: Tackling Federated Learning with Non-IID Features via Representation Augmentation
-    </a></div>
+    </div>
     <div class="author">
              <span style="font-weight:900; color:#7b5aa6;">Haokun Chen</span>,
 		<a href="https://www.linkedin.com/in/ahmed-frikha?originalSubdomain=de" style="color: black;">Ahmed Frikha</a>,
@@ -193,7 +193,7 @@ Language Models
     <div class="title">
       <!-- <a href="https://arxiv.org/pdf/2308.08634.pdf"> -->
 	Towards Data-free Domain Generalization
-      </a></div>
+      </div>
     <div class="author">
 		<a href="https://www.linkedin.com/in/ahmed-frikha?originalSubdomain=de" style="color: black;">Ahmed Frikha <sup>*</sup> </a>,
              <span style="font-weight:900; color:#7b5aa6;">Haokun Chen</span>,
@@ -219,7 +219,7 @@ Language Models
     <div class="title">
       <!-- <a href="https://arxiv.org/pdf/2412.12359.pdf"> -->
 	LLaVA Steering: Visual Instruction Tuning with 500x Fewer Parameters through Modality Linear Representation-Steering
-      </a></div>
+      </div>
     <div class="author">
 	<a href="https://scholar.google.com/citations?user=ngCBlN4AAAAJ&hl=en" style="color: black;">Jinhe Bi</a>,
 	<a href="https://scholar.google.com/citations?user=T4qdyEEAAAAJ&hl=en" style="color: black;">Yujun Wang</a>,
@@ -246,7 +246,7 @@ Language Models
     <div class="title">
       <!-- <a href="https://arxiv.org/pdf/2308.08634.pdf"> -->
 	CL-CrossVQA: A Continual Learning Benchmark for Cross-Domain Visual Question Answering
-      </a></div>
+      </div>
     <div class="author">
 	<a href="https://scholar.google.com/citations?user=F19iFf8AAAAJ&hl=en" style="color: black;">Yao Zhang</a>,
              <span style="font-weight:900; color:#7b5aa6;">Haokun Chen</span>,
