@@ -3,8 +3,12 @@ layout: homepage
 ---
 
 ## About Me
-I am a final-year PhD student advised by <a href="https://www.dbs.ifi.lmu.de/~tresp/">Prof. Dr. Volker Tresp</a> and <a href="https://www.dbs.ifi.lmu.de/~krompass/"> Dr. Denis Krompass</a> at <a href="https://www.lmu.de/de/index.html">LMU Munich</a> and <a href="www.siemens.com">Siemens AG</a>. Currently, I am a Applied Scientist Intern at <a href="https://https://www.amazon.de/"> Amazon </a> working on Preference Optimization for Large Language Models (LLMs). Previously, I worked at <a href="https://www.siemens.com/de/de.html"> Siemens AG </a> as Doctorate Researcher working on Federated Learning and Vision-Language Models (VLMs). I have also interned at <a href="https://www.intel.com/content/www/us/en/homepage.html"> Intel</a>, focusing on Adversarial Attacks and Machine Unlearning for LLMs. Prior to my PhD, I received my Master's degree in Computer Science at <a href="https://www.tum.de/">Technical University of Munich (TUM)</a>, supervised by <a href="https://www.professoren.tum.de/honorarprofessoren/r/runkler-thomas"> Prof. Dr. Thomas Runkler</a>, and my Bachelor's degree in Mechatronics at <a href="https://de.tongji.edu.cn/">Tongji University</a> in Shanghai, China.
-
+<p>
+  I received my Ph.D. from LMU Munich in Germany, advised by <a href="https://www.dbs.ifi.lmu.de/~tresp/">Prof. Dr. Volker Tresp</a>. My Ph.D. was co-supervised by <a href="https://www.dbs.ifi.lmu.de/~krompass/">Dr. Denis Krompass</a> from Siemens AG. During my Ph.D. time I have also intern at Amazon and Intel. 
+</p>
+<p>
+  Prior to my doctoral studies, I received my Master's degree from the TUM in Germany and my Bachelor's degree from Tongji University in China. I am trilingual in Mandarin, English, and German. I also enjoy playing basketball, swimming, and Hip-hop dancing.
+</p>
 
 ## Research Interests
 - **Generative AI:** Post-training of Large Language Models (LLMs), Vision-Language Foundation Models.
