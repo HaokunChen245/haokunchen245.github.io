@@ -2,3 +2,38 @@
 ---
 
 @import "minimal-light";
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #222222 !important;
+    color: #eee6f3 !important;
+  }
+
+  a {
+    color: #4dd0e1 !important;
+  }
+
+  autocolor {
+    color: #4dd0e1 !important;
+  }
+
+  h1,
+  h3 {
+    color: #eeeff0 !important;
+  }
+
+  h2 {
+    color: #d6d6d6 !important;
+  }
+
+  .social-icons a:hover {
+    color: white !important;
+  }
+
+  code,
+  pre {
+    color: #ffffff !important;
+    background: #333 !important;
+    border-color: #444 !important;
+  }
+}
