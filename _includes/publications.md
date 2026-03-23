@@ -53,7 +53,7 @@ Language Models
              <span style="font-weight:900; color:#7b5aa6;">Haokun Chen</span>,
 	    	<a href="https://sebszyller.com/" style="color: black;">Sebastian Szyller</a>,
 		<a href="https://xuweilin.org/" style="color: black;">Weilin Xu</a>,		
-	    	<a href="https://www.linkedin.com/in/nageen-himayat-3292603" style="color: black;">Nageen Himayat</a>,
+	    	<a href="https://www.linkedin.com/in/nageen-himayat-3292603" style="color: black;">Nageen Himayat</a>
     </div>
     <div class="periodical"><em>The 2025 Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, Nov. 2025. </em></div>
     <div class="links">
