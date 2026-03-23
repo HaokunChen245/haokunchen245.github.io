@@ -10,7 +10,7 @@
 	  <abbr class="badge">AAAI</abbr>
   </div> -->
   
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;padding-left: 20px;">
     <div class="title">
       <!-- <a href="https://arxiv.org/pdf/2410.04810.pdf"> -->
 	AUVIC: Adversarial Unlearning of Visual Concepts for Multi-modal Large
