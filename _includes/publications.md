@@ -5,10 +5,10 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;padding-bottom: 25px;">
+  <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;padding-bottom: 25px;">
     <img src="assets/img/auvic.png" class="teaser img-fluid z-depth-1">
 	  <abbr class="badge">AAAI</abbr>
-  </div>
+  </div> -->
   
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">
@@ -39,10 +39,10 @@ Language Models
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;padding-bottom: 25px;">
+  <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;padding-bottom: 25px;">
     <img src="assets/img/softtoken.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">EMNLP</abbr>
-  </div>
+  </div> -->
   
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">
@@ -68,10 +68,10 @@ Language Models
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;padding-bottom: 25px;">
+  <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;padding-bottom: 25px;">
     <img src="assets/img/fedbip.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CVPR</abbr>
-  </div>
+  </div> -->
   
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">
@@ -104,10 +104,10 @@ Language Models
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;padding-bottom: 25px;">
+  <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;padding-bottom: 25px;">
     <img src="assets/img/fedpop.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">AAAI</abbr>
-  </div>
+  </div> -->
   
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">
@@ -135,11 +135,7 @@ Language Models
 <li>
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;padding-bottom: 50px;">
-    <img src="assets/img/feddat.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">AAAI</abbr>
-  </div>
-
+  
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">
       <a href="https://arxiv.org/pdf/2308.12305.pdf">
@@ -165,10 +161,6 @@ Language Models
   
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;padding-bottom: 30px;">
-    <img src="assets/img/fraug.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ICCV</abbr>
-  </div>
   
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">
@@ -196,10 +188,6 @@ Language Models
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;padding-bottom: 20px;">
-    <img src="assets/img/dfdg.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ACML</abbr>
-  </div>
   
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">
@@ -226,10 +214,6 @@ Language Models
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;padding-bottom: 30px;">
-    <img src="assets/img/llava.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ACL</abbr>
-  </div>
   
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">
@@ -258,11 +242,6 @@ Language Models
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;padding-bottom: 30px;">
-    <img src="assets/img/clvqa.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">WACV</abbr>
-  </div>
-  
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">
       <a href="https://arxiv.org/pdf/2308.08634.pdf">
