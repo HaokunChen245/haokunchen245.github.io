@@ -3,6 +3,16 @@
 
 @import "minimal-light";
 
+/* Light mode author styles */
+.me {
+  font-weight: 900;
+  color: #7b5aa6;
+}
+
+.coauthor {
+  color: black;
+}
+
 @media (prefers-color-scheme: dark) {
   body {
     background-color: #222222 !important;
@@ -10,11 +20,20 @@
   }
 
   a {
-    color: #4dd0e1 !important;
+    color: #5DA6C5 !important;
   }
 
   autocolor {
-    color: #4dd0e1 !important;
+    color: #5DA6C5 !important;
+  }
+
+  .me {
+    color: #5DA6C5 !important;
+    font-weight: normal !important;
+  }
+
+  .coauthor {
+    color: #ffffff !important;
   }
 
   h1,
