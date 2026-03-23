@@ -3,7 +3,7 @@
 <div class="publications">
 <ol class="bibliography" style="margin-bottom: 0;">
 
-<li style="min-height: auto; margin-bottom: 0;">
+<!-- <li style="min-height: auto; margin-bottom: 0;">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;padding-bottom: 5px;">
     <h4 style="margin:0 10px 0;"><autocolor>Conference Reviewers</autocolor></h4>
@@ -24,4 +24,4 @@
         ACM Transactions on Knowledge Discovery from Data (<em>TKDD</em>) <br>        
       </ul>
   </div>
-</div>
+</div> -->
