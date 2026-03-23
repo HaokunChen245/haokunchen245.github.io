@@ -71,7 +71,7 @@ a.no-color {
 
   .social-icons a:hover {
     background-color: transparent;
-    color: black;
+    color: white;
     transform: scale(1.2)
   }
 
@@ -221,12 +221,12 @@ papertitle {
 
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: #404040;
+    background-color: #222222;
     color: #eee6f3;
   }
 
   autocolor {
-    color: #ab82c5;
+    color: #4dd0e1;
   }
 
   lightonly {
@@ -404,7 +404,14 @@ a:hover {
 
 @media (prefers-color-scheme: dark) {
   a {
-    color: #ab82c5;
+    color: #4dd0e1;
+  }
+
+  code,
+  pre {
+    color: #ffffff;
+    background: #333;
+    border-color: #444;
   }
 }
 
