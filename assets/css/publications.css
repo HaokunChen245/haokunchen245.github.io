@@ -121,6 +121,7 @@ screen and (min-width: 480px) {
 
 .publications ol.bibliography li .title {
   font-weight: bolder;
+  white-space: nowrap;
 }
 
 .publications ol.bibliography li .author a {
