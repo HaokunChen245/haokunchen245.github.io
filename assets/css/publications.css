@@ -124,6 +124,18 @@ screen and (min-width: 480px) {
   white-space: nowrap;
 }
 
+.publications ol.bibliography li .author {
+  white-space: nowrap;
+}
+
+.publications ol.bibliography li .periodical {
+  white-space: nowrap;
+}
+
+.publications ol.bibliography li .links {
+  white-space: nowrap;
+}
+
 .publications ol.bibliography li .author a {
   border-bottom: 1px var(--global-theme-color);
 }
