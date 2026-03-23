@@ -4,10 +4,10 @@ layout: homepage
 
 ## About Me
 <p>
-  I received my Ph.D. from LMU Munich in Germany, advised by <a href="https://www.dbs.ifi.lmu.de/~tresp/">Prof. Dr. Volker Tresp</a>. My Ph.D. was co-supervised by <a href="https://www.dbs.ifi.lmu.de/~krompass/">Dr. Denis Krompass</a> from Siemens AG. During my Ph.D., I have also intern at Amazon and Intel. 
+  I received my Ph.D. from LMU Munich in Germany, advised by <a href="https://www.dbs.ifi.lmu.de/~tresp/">Prof. Dr. Volker Tresp</a> and co-supervised by <a href="https://www.dbs.ifi.lmu.de/~krompass/">Dr. Denis Krompass</a> (Siemens AG). During my doctoral studies, I completed internships at Amazon and Intel. 
 </p>
 <p>
-  Prior to my doctoral studies, I received my Master's degree from the TUM in Germany and my Bachelor's degree from Tongji University in China. I am trilingual in Mandarin, English, and German. I also enjoy playing basketball, swimming, and Hip-hop dancing.
+  Prior to my Ph.D., I earned my Master's degree from TUM in Germany and my Bachelor's degree from Tongji University in China. I am trilingual in Mandarin, English, and German, and I enjoy playing basketball, swimming, and hip-hop dancing.
 </p>
 
 ## Research Interests
